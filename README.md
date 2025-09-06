@@ -1,123 +1,207 @@
-# 👋 Hi, I'm Thinura21!
-
-<div align="center">
-  <img src="assets/pp.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
-</div>
+# ⚡ 闇のコーダー - Thinura21 ⚡
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/Thinura21?label=Follow&style=social)](https://github.com/Thinura21)
-  [![GitHub stars](https://img.shields.io/github/stars/Thinura21?label=Stars&style=social)](https://github.com/Thinura21)
-  
+```
+     ██████╗  █████╗ ██████╗ ██╗  ██╗    ██████╗ ███████╗██╗   ██╗
+     ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝    ██╔══██╗██╔════╝██║   ██║
+     ██║  ██║███████║██████╔╝█████╔╝     ██║  ██║█████╗  ██║   ██║
+     ██║  ██║██╔══██║██╔══██╗██╔═██╗     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+     ██████╔╝██║  ██║██║  ██║██║  ██╗    ██████╔╝███████╗ ╚████╔╝ 
+     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+%26+Web+Architect;Code+Demon+%F0%9F%91%BA;Building+Digital+Realms" alt="Typing SVG" />
+
+[![GitHub followers](https://img.shields.io/github/followers/Thinura21?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=1a1a1a)](https://github.com/Thinura21)
+[![GitHub stars](https://img.shields.io/github/stars/Thinura21?label=Stars&style=for-the-badge&color=ffd93d&labelColor=1a1a1a)](https://github.com/Thinura21)
+
 </div>
 
-## 🚀 About Me
+## 💀 About This Ghoul
 
-I'm a passionate **Full-Stack Developer** specializing in building innovative mobile and web applications that solve real-world problems. My focus lies in creating seamless user experiences through modern technologies and clean, efficient code.
+```typescript
+class DarkDeveloper {
+  name: string = "Thinura21";
+  alias: string = "闇のコーダー (Yami no Kōdā)";
+  kagune: string[] = ["JavaScript", "Dart", "CSS"];
+  territory: string = "Full-Stack Development";
+  
+  hunt(): string {
+    return "Building applications that devour bugs 🦠";
+  }
+  
+  getStrength(): number {
+    return this.kagune.length * 100; // RC Cell Count
+  }
+}
 
-- 🔭 I'm currently working on **Emergency Response Systems** and **Transportation Solutions**
-- 🌱 I'm continuously learning **Advanced Programming Concepts** and **Mobile Development**
-- 💡 I love turning complex problems into simple, beautiful solutions
-- 🎯 Goal: Building applications that make a positive impact on people's lives
-
-## 🛠️ Tech Stack
+const ghoul = new DarkDeveloper();
+console.log(`${ghoul.alias} - RC Cells: ${ghoul.getStrength()}`);
+```
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+### ⚔️ 鬼のような技術スタック ⚔️
 
 </div>
 
-## 🌟 Featured Projects
-
-### 🚕 [Mega City Cab](https://github.com/Thinura21/Mege_Cab_Web)
-**Advanced Programming Assignment - Taxi Booking System**
-
-A comprehensive taxi booking and fleet management system built with modern web technologies.
-
-**🔥 Key Features:**
-- Real-time taxi booking and tracking
-- Advanced driver and passenger management
-- Route optimization algorithms
-- Integrated payment processing
-- Comprehensive admin dashboard
-- Fleet management and analytics
-
-**💻 Technologies:** `JavaScript` `Node.js` `Express.js` `MongoDB` `CSS3` `HTML5`
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=Dart&logoColor=0175C2&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=1a1a1a" />
+</p>
 
 ---
 
-### 🛡️ [SafeLink](https://github.com/Thinura21/safelink)
-**Emergency Support Mobile App & Web Dashboard**
-
-A life-saving mobile application designed for emergency response and crisis management with real-time location sharing.
-
-**🔥 Key Features:**
-- One-tap emergency alert system
-- Real-time GPS location sharing
-- Emergency contacts management
-- Crisis communication tools
-- Web dashboard for emergency monitoring
-- Multi-platform support (iOS/Android)
-
-**💻 Technologies:** `Dart` `Flutter` `Firebase` `Google Maps API` `Real-time Database`
-
-## 📊 GitHub Stats
+## 🏴‍☠️ 血塗られたプロジェクト (Blood-Stained Projects)
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thinura21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinura21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-  
+
+### 🩸 Recent Kills 🩸
+
 </div>
 
-## 🏆 Achievements
+<table align="center">
+<tr>
+<td width="50%">
 
-- 🎯 **28 Contributions** in the last year
-- 🚀 **2 Major Projects** completed and deployed
-- 💡 **Advanced Programming** assignment completion
-- 📱 **Mobile & Web Development** expertise
-- 🛡️ **Emergency Systems** development experience
+### 🚕 **MEGA CITY CAB**
+```
+Classification: S-Class Ghoul Project
+Threat Level: ████████░░ 80%
+Status: ACTIVE HUNTING
+```
 
-## 📈 Contribution Activity
+**🔴 Carnage Features:**
+- `🎯` Real-time prey tracking system
+- `⚡` Lightning-fast booking algorithms  
+- `🩸` Driver soul management
+- `💰` Payment blood extraction
+- `👑` Administrative dominion
+
+**🗡️ Weapons Used:**
+`JavaScript` `Node.js` `Express.js` `MongoDB`
+
+[🔗 **ENTER THE HUNT**](https://github.com/Thinura21/Mege_Cab_Web)
+
+</td>
+<td width="50%">
+
+### 🛡️ **SAFELINK**
+```
+Classification: SSS-Class Guardian Project
+Threat Level: ██████████ 100%
+Status: PROTECTION MODE ACTIVE
+```
+
+**🔴 Guardian Powers:**
+- `⚡` One-touch emergency summoning
+- `📍` Real-time location binding
+- `👥` Emergency contact legion
+- `💬` Crisis communication network
+- `🌐` Web monitoring fortress
+
+**🗡️ Weapons Used:**
+`Dart` `Flutter` `Firebase` `Google Maps API`
+
+[🔗 **JOIN THE GUARD**](https://github.com/Thinura21/safelink)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thinura21&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
-  
+
+## ⚰️ Battle Statistics ⚰️
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thinura21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd93d&text_color=c9d1d9&ring_color=ff6b6b" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinura21&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
+
 </div>
 
-## 🎯 Current Focus
+---
+
+## 🩸 Power Level Assessment
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                          GHOUL ABILITIES                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  💀 Code Devouring:      ████████████████████████ 100%          ║
+║  ⚡ Bug Extermination:   ████████████████████████ 100%          ║
+║  🔥 Feature Creation:    ██████████████████████░░  95%          ║
+║  🌙 Night Coding:        ████████████████████████ 100%          ║
+║  👺 Problem Solving:     ████████████████████████ 100%          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## 🌙 Current Mission Status
+
+<div align="center">
 
 ```javascript
-const thinura21 = {
-    currentProjects: ["SafeLink Emergency System", "Mega City Cab Platform"],
-    learning: ["Advanced Flutter Development", "Real-time Systems", "Cloud Architecture"],
-    interests: ["Emergency Response Tech", "Transportation Solutions", "Mobile Innovation"],
-    askMeAbout: ["JavaScript", "Dart", "Mobile Development", "Emergency Systems"],
-    funFact: "I believe technology should make the world a safer place! 🌍"
+const currentMission = {
+    objective: "Eliminate all bugs in the digital realm",
+    projects: ["SafeLink Guardian System", "Mega City Cab Empire"],
+    learning: ["Advanced Flutter Techniques", "Real-time Combat Systems"],
+    specialization: ["Emergency Response Tech", "Transportation Domination"],
+    motto: "Code in the shadows, deploy in the light 🌒",
+    currentStreak: "28 consecutive days of commits",
+    dangerLevel: "MAXIMUM ⚠️"
 };
 ```
 
-## 🌐 Let's Connect!
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Thinura21)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-58a6ff?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://thinura21.github.io)
-  
 </div>
 
 ---
 
 <div align="center">
-  <i>💡 "Building tomorrow's solutions, one line of code at a time."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Thinura21&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views">
+
+## 🦇 Activity in the Shadows 🦇
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thinura21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ffd93d&point=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔️ Connect with the Dark Developer ⚔️
+
+[![GitHub](https://img.shields.io/badge/-GITHUB_REALM-000000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=ff6b6b)](https://github.com/Thinura21)
+[![Portfolio](https://img.shields.io/badge/-DARK_PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&labelColor=ffd93d)](https://thinura21.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+┃                                                                   ┃
+┃  "In this world of code, you're either a predator or prey.       ┃
+┃                    I choose to be the hunter."                    ┃
+┃                                                          - 闇鬼   ┃
+┃                                                                   ┃
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+```
+
+<img src="https://komarev.com/ghpvc/?username=Thinura21&color=ff6b6b&style=for-the-badge&label=SOULS+CONSUMED" alt="Profile views">
+
+**🩸 Last Updated: When the moon is full and the code compiles perfectly 🌙**
+
 </div>
