@@ -169,16 +169,6 @@ const currentMission = {
 
 <div align="center">
 
-## 🦇 Activity in the Shadows 🦇
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thinura21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ffd93d&point=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
 ## ⚔️ Connect with the Dark Developer ⚔️
 
 [![GitHub](https://img.shields.io/badge/-GITHUB_REALM-000000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=ff6b6b)](https://github.com/Thinura21)
