@@ -13,8 +13,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+%26+Web+Architect;Code+Demon+%F0%9F%91%BA;Building+Digital+Realms" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/Thinura21?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=1a1a1a)](https://github.com/Thinura21)
-[![GitHub stars](https://img.shields.io/github/stars/Thinura21?label=Stars&style=for-the-badge&color=ffd93d&labelColor=1a1a1a)](https://github.com/Thinura21)
+[![GitHub followers](https://img.shields.io/github/followers/Thinura21?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=1a1a1a&cacheSeconds=300)](https://github.com/Thinura21)
+[![GitHub stars](https://img.shields.io/github/stars/Thinura21?label=Stars&style=for-the-badge&color=ffd93d&labelColor=1a1a1a&cacheSeconds=300)](https://github.com/Thinura21)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ```typescript
 class DarkDeveloper {
-  name: string = "Thinura21";
+  name: string = "Thinura Chandrasekara";
   alias: string = "闇のコーダー (Yami no Kōdā)";
   kagune: string[] = ["JavaScript", "Dart", "CSS"];
   territory: string = "Full-Stack Development";
@@ -32,7 +32,7 @@ class DarkDeveloper {
   }
   
   getStrength(): number {
-    return this.kagune.length * 100;
+    return this.kagune.length * 100; // RC Cell Count
   }
 }
 
