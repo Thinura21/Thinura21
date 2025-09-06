@@ -32,7 +32,7 @@ class DarkDeveloper {
   }
   
   getStrength(): number {
-    return this.kagune.length * 100; // RC Cell Count
+    return this.kagune.length * 100;
   }
 }
 
